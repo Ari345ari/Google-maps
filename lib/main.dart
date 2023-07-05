@@ -54,7 +54,7 @@ class _CustomHomeState extends State<CustomHome> {
   GoogleMapController? mapController; //controller for Google map
   PolylinePoints polylinePoints = PolylinePoints();
 
-  String googleAPIKey = "AIzaSyDbGELc0IF6zgneIFT9gM9jwthOzMUo6SQ"; //google APIkey
+  String googleAPIKey = " "; //google APIkey
   Set<Marker> markers = {}; //markers for google map
   Map<PolylineId, Polyline> polylines = {}; //polylines to show direction
 
