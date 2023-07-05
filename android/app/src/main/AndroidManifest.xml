@@ -32,7 +32,7 @@
 
     <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDbGELc0IF6zgneIFT9gM9jwthOzMUo6SQ"/>
+            android:value=" "/> //GoogleAPIKey
 
     </application>
 </manifest>
